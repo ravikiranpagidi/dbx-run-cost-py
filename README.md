@@ -192,6 +192,8 @@ For all-purpose clusters, use the report as approximate only. Multiple users or 
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
+For release steps, see [docs/pypi-release.md](./docs/pypi-release.md).
+
 ## References
 
 - Databricks billable usage table: `system.billing.usage`
